@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("bite :smirk:");
             Console.WriteLine("Hello, World!");
         }
     }
