@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Model\Character\" />
+    <Folder Include="Model\Item\" />
+    <Folder Include="Model\" />
+    <Folder Include="Model\Npc\Friendly\" />
+    <Folder Include="Model\Npc\Hostile\" />
+    <Folder Include="GameplayScript\" />
+    <Folder Include="Data\" />
+  </ItemGroup>
+
 </Project>
